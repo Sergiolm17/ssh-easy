@@ -1,0 +1,12 @@
+{
+  "ID": "427af2d93887868f8179665uy661c6c3",
+  "ActionKeyword": "ssh",
+  "Name": "SSH Easy",
+  "Description": "SSH Easy",
+  "Author": "srsergiolazaro",
+  "Version": "1.0.1",
+  "Language": "javascript",
+  "Website": "https://github.com/Sergiolm17/ssh-profiles",
+  "ExecuteFileName": "main.js",
+  "IcoPath": "Images\\app.png"
+}

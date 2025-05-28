@@ -1,0 +1,10 @@
+{
+  "name": "ssh-profiles",
+  "dependencies": {
+    "open": "^8.4.0",
+    "fuse.js": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.24"
+  }
+}
