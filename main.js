@@ -68,6 +68,10 @@ function saveSSHProfiles(profiles) {
     console.error("Error saving SSH profiles:", error);
   }
 }
+if (!process.argv[2]) {
+  console.log(JSON.stringify({ result: [] }));
+  process.exit(0);
+}
 
 const { method, parameters } = JSON.parse(process.argv[2]);
 
